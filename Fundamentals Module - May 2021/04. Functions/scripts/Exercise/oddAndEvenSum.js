@@ -23,3 +23,5 @@ function sumOddAndEven(num) {
 }
 sumOddAndEven(1000435);
 sumOddAndEven(3495892137259234);
+
+// tested in Judge = 100/100
