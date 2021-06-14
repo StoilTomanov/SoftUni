@@ -1,4 +1,4 @@
-function charactersInRange(charOne, charTwo) {
+function findCharactersInRange(charOne, charTwo) {
     // convert the letters to digits using ASCII
     let startChar = charOne.charCodeAt(0);
     let endChar = charTwo.charCodeAt(0);
@@ -21,10 +21,10 @@ function charactersInRange(charOne, charTwo) {
 
 
 }
-charactersInRange('a', 'd');
+findCharactersInRange('a', 'd');
 console.log('------------------------------------------------------------------------------------------');
-charactersInRange('#', ':');
+findCharactersInRange('#', ':');
 console.log('------------------------------------------------------------------------------------------');
-charactersInRange('C', '#');
+findCharactersInRange('C', '#');
 
 // tested in Judge = 100/100
