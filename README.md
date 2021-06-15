@@ -1,5 +1,5 @@
 # SoftUni
 
-Hello world! This is a SoftUni folder that will include any type of code related with my education (moslty JS).
+Hello world! This is a SoftUni folder that will include any type of code related with my education including the ugly one :)
 
-Thanks :)
+Thanks!
